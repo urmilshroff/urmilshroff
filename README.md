@@ -2,4 +2,4 @@
 
 ## Hey there! 👋🏼
 
-I'm a 21 year old Flutter developer who appreciates good design & attention to detail. You can find my résumé, social links and other details on my [website](https://urmilshroff.tech/). Scroll 👇🏼 for some open source greenery!
+I'm a 22 year old Flutter developer who appreciates good design & attention to detail. You can find my résumé, social links and other details on my [website](https://urmilshroff.tech/). Scroll 👇🏼 for some open source greenery!
