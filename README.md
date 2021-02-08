@@ -2,4 +2,4 @@
 
 ## Hey there! :wave:
 
-I'm a 22 year old Flutter app developer who adores good design & attention to detail. You can find my résumé, social links and other info on my [website](https://urmilshroff.tech/). Scroll :point_down: for my projects and contributions!
+I'm a 22 year old Flutter app developer who adores good design & attention to detail. You can find my résumé, contact links and other info on my [website](https://urmilshroff.tech/). Scroll :point_down: for my open source projects and contributions!
