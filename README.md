@@ -1,4 +1,4 @@
-<img alt="Urmil's GitHub stats" align="right" src="https://github-readme-stats.urmilshroff.vercel.app/api?username=urmilshroff&hide_border=true&hide_title=true&show_icons=true">
+<img alt="Urmil's GitHub streak" align="right" src="http://github-readme-streak-stats.herokuapp.com?user=urmilshroff&hide_border=true&currStreakLabel=000000&ring=316dca&fire=316dca">
 
 ## Hey there! :wave:
 
